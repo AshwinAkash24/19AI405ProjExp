@@ -17,7 +17,7 @@
 ## PROGRAM:
 <pre>
   <code>
-    M = 9
+M = 9
 def puzzle(a):
     for i in range(M):
         for j in range(M):
@@ -79,7 +79,8 @@ else:
 </pre>
 
 ## OUTPUT:
-
+<image src="image.png">
+<image src="image-1.png">
 
 ## RESULT:
 Thus, a Sudoku solver using the backtracking algorithm is implemented for the given Sudoku puzzle.
